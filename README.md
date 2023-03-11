@@ -1,4 +1,4 @@
-# oarenaucla.github.io
+# phillycheesesteak.github.io
 theme: jekyll-theme-minimal
 title: Philly Cheesesteaks's homepage
 description: Bookmark this to keep an eye on my project updates!
